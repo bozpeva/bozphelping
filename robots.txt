@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bozphelping.cz/sitemap.xml
+Sitemap: https://bozpeva.github.io/bozphelping/sitemap.xml
